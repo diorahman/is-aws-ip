@@ -1,0 +1,17 @@
+{
+  "name": "is-aws-ip",
+  "version": "1.0.0",
+  "description": "Is Amazon IP?",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "Dhi Aurrahman <dio@hooq.tv>",
+  "license": "ISC",
+  "dependencies": {
+    "insubnet": "0.0.8"
+  },
+  "devDependencies": {
+    "tape": "^4.6.2"
+  }
+}
