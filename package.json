@@ -1,6 +1,6 @@
 {
   "name": "is-aws-ip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Is Amazon IP?",
   "main": "index.js",
   "scripts": {
